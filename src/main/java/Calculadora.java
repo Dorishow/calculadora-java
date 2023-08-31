@@ -29,7 +29,5 @@ public class Calculadora extends JFrame{
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
     }
 
-    public static void main(String[] args) {
-        Calculadora c = new Calculadora();
-    }
+
 }
